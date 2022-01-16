@@ -1,7 +1,7 @@
 # TLT
 
 ##### API for tasks
-**Endpoints:**
+**Endpoints:**  
 api/register (POST) - регистрация  
 api/login (POST) - логин  
 api/tasks (GET) - получить подборку задач для пользователя  
